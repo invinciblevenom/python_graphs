@@ -1,3 +1,3 @@
 # Data-Science
 
-Create graphs using matplotlib and math libraries in Python. 
+Create graphs using matplotlib, numpy and math libraries in Python. 
